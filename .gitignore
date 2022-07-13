@@ -1,0 +1,7 @@
+__pycache__
+.git
+_DS_Store
+.Rhistory
+.idea
+.ipynb_checkpoints
+data/*
